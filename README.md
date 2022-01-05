@@ -1,4 +1,4 @@
-Tela simples de login dimensionada para mobile, iphone X
+Tela simples de login
 
 Objetivo: Didática
 
